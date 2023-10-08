@@ -4,7 +4,7 @@
     "name": "John Smith",
     "location": "New York, NY",
     "rating": 5,
-    "comment": "I couldn't have asked for a better experience. Your team made my wedding day truly magical. Everything was flawless, from the decor to the entertainment. Thank you!",
+    "comment": "Our wedding was an incredible experience, thanks to your team. Every detail, from decor to entertainment, was flawless. We're truly grateful!",
     "authorImgLink": "https://i.ibb.co/FVTc03Q/client1.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Emily Johnson",
     "location": "Los Angeles, CA",
     "rating": 4,
-    "comment": "Great job on our corporate event! Your attention to detail and professionalism were impressive. We'll definitely be working with you again.",
+    "comment": "Your work on our corporate event was impressive. Attention to detail and professionalism stood out. We look forward to future collaborations.",
     "authorImgLink": "https://i.ibb.co/ZN1Zv2Q/client2.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Sarah Davis",
     "location": "Chicago, IL",
     "rating": 5,
-    "comment": "Our charity gala was a massive success, thanks to your expertise. Your ability to understand our vision and execute it flawlessly is commendable.",
+    "comment": "Our charity gala's success is all thanks to your expertise. Your ability to understand our vision and execute it is commendable.",
     "authorImgLink": "https://i.ibb.co/7S3tvRx/client3.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "name": "David Brown",
     "location": "Miami, FL",
     "rating": 4,
-    "comment": "You turned my milestone birthday party into an unforgettable night. The creativity in the theme and decor left everyone in awe.",
+    "comment": "You made my milestone birthday unforgettable. The creativity in theme and decor left everyone in awe.",
     "authorImgLink": "https://i.ibb.co/hyBFwKF/client4.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Megan White",
     "location": "San Francisco, CA",
     "rating": 5,
-    "comment": "I was stressed about planning my daughter's sweet sixteen, but your team took care of everything. The party was a huge hit, and she loved it!",
+    "comment": "Planning my daughter's sweet sixteen was stressful, but your team handled everything. The party was a huge hit, and she loved it!",
     "authorImgLink": "https://i.ibb.co/bgs7xMY/client5.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Robert Johnson",
     "location": "Austin, TX",
     "rating": 4,
-    "comment": "Impressive work on our product launch event. Your strategic thinking and flawless execution ensured a memorable event for our clients.",
+    "comment": "Impressive work on our product launch event. Your strategic thinking and execution ensured a memorable event for our clients.",
     "authorImgLink": "https://i.ibb.co/dkNRJcm/client6.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Hannah Miller",
     "location": "Seattle, WA",
     "rating": 5,
-    "comment": "Thank you for making our anniversary celebration so special. The ambiance and entertainment were perfect. It was a night to remember.",
+    "comment": "Our anniversary celebration was made special by your team. Perfect ambiance and entertainment. A night to remember!",
     "authorImgLink": "https://i.ibb.co/qNHYQyj/client7.jpg"
   }
 ]
