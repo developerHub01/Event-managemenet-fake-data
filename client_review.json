@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "location": "New York, NY",
+    "rating": 5,
+    "comment": "I couldn't have asked for a better experience. Your team made my wedding day truly magical. Everything was flawless, from the decor to the entertainment. Thank you!",
+    "authorImgLink": "https://i.ibb.co/FVTc03Q/client1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "location": "Los Angeles, CA",
+    "rating": 4,
+    "comment": "Great job on our corporate event! Your attention to detail and professionalism were impressive. We'll definitely be working with you again.",
+    "authorImgLink": "https://i.ibb.co/ZN1Zv2Q/client2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Davis",
+    "location": "Chicago, IL",
+    "rating": 5,
+    "comment": "Our charity gala was a massive success, thanks to your expertise. Your ability to understand our vision and execute it flawlessly is commendable.",
+    "authorImgLink": "https://i.ibb.co/7S3tvRx/client3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "location": "Miami, FL",
+    "rating": 4,
+    "comment": "You turned my milestone birthday party into an unforgettable night. The creativity in the theme and decor left everyone in awe.",
+    "authorImgLink": "https://i.ibb.co/hyBFwKF/client4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Megan White",
+    "location": "San Francisco, CA",
+    "rating": 5,
+    "comment": "I was stressed about planning my daughter's sweet sixteen, but your team took care of everything. The party was a huge hit, and she loved it!",
+    "authorImgLink": "https://i.ibb.co/bgs7xMY/client5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Robert Johnson",
+    "location": "Austin, TX",
+    "rating": 4,
+    "comment": "Impressive work on our product launch event. Your strategic thinking and flawless execution ensured a memorable event for our clients.",
+    "authorImgLink": "https://i.ibb.co/dkNRJcm/client6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hannah Miller",
+    "location": "Seattle, WA",
+    "rating": 5,
+    "comment": "Thank you for making our anniversary celebration so special. The ambiance and entertainment were perfect. It was a night to remember.",
+    "authorImgLink": "https://i.ibb.co/qNHYQyj/client7.jpg"
+  }
+]
