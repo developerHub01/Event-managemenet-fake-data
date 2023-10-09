@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "imgLink": "https://i.ibb.co/ZN1Zv2Q/client2.jpg",
+    "name": "John Smith",
+    "designation": "Event Planner"
+  },
+  {
+    "id": 2,
+    "imgLink": "https://i.ibb.co/dkNRJcm/client6.jpg",
+    "name": "Emily Johnson",
+    "designation": "Creative Designer"
+  },
+  {
+    "id": 3,
+    "imgLink": "https://i.ibb.co/bgs7xMY/client5.jpg",
+    "name": "David Brown",
+    "designation": "Catering Specialist"
+  },
+  {
+    "id": 4,
+    "imgLink": "https://i.ibb.co/FVTc03Q/client1.jpg",
+    "name": "Megan White",
+    "designation": "Photographer"
+  }
+]
